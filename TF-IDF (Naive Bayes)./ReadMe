@@ -1,2 +1,4 @@
 IMDB Movie reviews - Positive (1) and negative reviews (0)
-Bag of Words model (TF) gives 70.5% whike using Naive - Bayes Classifier. ( No of training data = 25000 , No of test data = 5000 )
+No of training data = 10000 and no of test data =5000 , Naive Bayes model gives accuracy of 63.5% and SVM gives accuracy of 79.9% .
+
+Naive Bayes model gives 70.5% accuracy when  No of training data = 25000 , No of test data = 5000 .
