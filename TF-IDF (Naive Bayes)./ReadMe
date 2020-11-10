@@ -1,4 +1,4 @@
 IMDB Movie reviews - Positive (1) and negative reviews (0)
-No of training data = 10000 and no of test data =5000 , Naive Bayes model gives accuracy of 63.5% and SVM gives accuracy of 79.9% .
-
-Naive Bayes model gives 70.5% accuracy when  No of training data = 25000 , No of test data = 5000 .
+No of training data = 10000 and no of test data =5000 .
+Bag of Words Model ( Using CountVectorizer) : - Naive Bayes model gives accuracy of 72.6 % and SVM gives accuracy of 77.98 % .
+Using TF-IDF Vectorizer :-  Naive Bayes model gives 79.4 % accuracy.
