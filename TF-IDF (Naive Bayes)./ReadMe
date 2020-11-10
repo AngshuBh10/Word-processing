@@ -2,4 +2,4 @@ IMDB Movie reviews - Positive (1) and negative reviews (0)
 No of training data = 10000 and no of test data =5000 .
 Bag of Words Model ( Using CountVectorizer) : - Naive Bayes model gives accuracy of 72.6 % and SVM gives accuracy of 77.98 % .
 Using TF-IDF Vectorizer :-  Naive Bayes model gives 79.4 % accuracy.
-Bag of Words Model ( Using CountVectorizer and not removing stopwords ) : - Naive Bayes model gives accuracy of 73.32 % and SVM gives accuracy of 77.04 % .
+Bag of Words Model ( Using CountVectorizer and without removing stopwords ) : - Naive Bayes model gives accuracy of 73.32 % and SVM gives accuracy of 77.04 % .
